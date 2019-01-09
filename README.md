@@ -2,6 +2,8 @@
 
 This theme is inspired by the cover art of A Tribe Called Quest.
 
+[The 50 Best Hip-Hop Album Covers](https://www.complex.com/music/2011/10/hip-hops-50-greatest-album-covers/51)
+
 ![](Preview.png)
 
 ## Installing manually
