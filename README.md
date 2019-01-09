@@ -1,4 +1,4 @@
-# A Tribe Called Xcode Theme
+# Xcode Theme - A Tribe Called Xcode 
 
 This theme is inspired by the cover art of A Tribe Called Quest.
 
